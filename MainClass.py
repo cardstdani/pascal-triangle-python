@@ -3,7 +3,7 @@ lines = int(lines)
 
 sampleList = []
 for i in range(lines):
-  lineString = "  " * lines
+  lineString = ""
 
   numbersList = []
   for j in range(i+1):
